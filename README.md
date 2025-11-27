@@ -24,11 +24,8 @@ Desarrollar y validar un **MVP** que permita:
 ## Funcionalidades Principales  
 - **Autenticación y roles**: clientes y prestadores.  
 - **Geo-match**: búsqueda por cercanía y categorías.  
-- **Ofertas privadas**: licitación ciega con re-oferta.  
-- **Agenda**: confirmación bilateral y reprogramación.  
-- **Chat in-app**: mensajes, fotos y comprobantes.  
+- **Ofertas privadas**: licitación ciega con re-oferta.   
 - **Reputación**: calificaciones y reseñas con fotos.  
-- **Notificaciones**: push y correo en eventos clave.  
 
 ---
 
