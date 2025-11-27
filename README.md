@@ -22,10 +22,15 @@ Desarrollar y validar un **MVP** que permita:
 ---
 
 ## Funcionalidades Principales  
-- **Autenticación y roles**: clientes y prestadores.  
-- **Geo-match**: búsqueda por cercanía y categorías.  
-- **Ofertas privadas**: licitación ciega con re-oferta.   
-- **Reputación**: calificaciones y reseñas con fotos.  
+- **Autenticación y roles**: registro, login y control de acceso para clientes y prestadores.  
+- **Gestión de perfil**: datos personales, profesión, biografía e imagen de perfil.  
+- **Geo-match**: búsqueda de servicios por cercanía (comuna/ubicación) y categorías.  
+- **Solicitudes de servicio**: creación, edición y visualización de solicitudes por parte del cliente.  
+- **Ofertas privadas**: licitación ciega con re-oferta de prestadores sobre una solicitud.   
+- **Asignación de servicio**: el cliente acepta una oferta y se genera el servicio asociado.  
+- **Historial**: consulta de solicitudes, ofertas y servicios realizados.  
+- **Reputación**: calificaciones y reseñas con fotos entre clientes y prestadores.  
+
 
 ---
 
