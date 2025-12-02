@@ -5,12 +5,12 @@
  * Cambia esta URL según tu entorno (desarrollo, producción, etc.)
  */
 // Para desarrollo local - usa la IP de tu PC en la red local
-export const API_BASE_URL = 'https://subhepatic-ebony-twopenny.ngrok-free.dev';
+export const API_BASE_URL = '?';
 
 /**
  * API Key para autenticación
  */
-export const API_KEY = 'm3sV4z4cQkqQ9wB2lbrcXk1YtR7f7b3N3h3A2WZqNnQ='; 
+export const API_KEY = '?'; 
 
 /**
  * Endpoints de la API
@@ -95,4 +95,5 @@ export const getAuthHeaders = (token) => ({
  * Configuración de timeout para las peticiones
  */
 export const REQUEST_TIMEOUT = 10000; // 10 segundos
+
 
